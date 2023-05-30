@@ -69,7 +69,8 @@
         "strong will",
         "fortitude",
         "responsibility",
-        "valor"
+        "valor",
+        "compulsive"
     ],
     "bold": [
         "boldness",
@@ -181,7 +182,8 @@
         "steadfastness",
         "assurance",
         "evenness",
-        "fortitude"
+        "fortitude",
+        "uncharitable"
     ],
     "compassionate": [
         "compassion",
@@ -199,7 +201,8 @@
         "heart",
         "benevolence",
         "understanding",
-        "gentleness"
+        "gentleness",
+        "charitable"
     ],
     "confident": [
         "confidence",
@@ -305,7 +308,9 @@
         "pragmatism",
         "planning",
         "vigilance",
-        "wisdom"
+        "wisdom",
+        "self-loathing",
+        "over-thinker"
     ],
     "lonesome": [
         "independence",
@@ -377,7 +382,8 @@
         "reliability",
         "vigilance",
         "prudence",
-        "attention"
+        "attention",
+        "over-thinker"
     ],
     "patient": [
         "patience",
@@ -430,7 +436,9 @@
         "logic",
         "dignity",
         "steadfastness",
-        "maturity"
+        "maturity",
+        "protective",
+        "over-thinker"
     ],
     "righteous": [
         "loyalty",
@@ -448,7 +456,8 @@
         "consideration",
         "integrity",
         "grace",
-        "poise"
+        "poise",
+        "protective"
     ],
     "shameless": [
         "enthusiasm",
@@ -466,7 +475,8 @@
         "dedication",
         "intensity",
         "adaptability",
-        "foolhardiness"
+        "foolhardiness",
+        "venal"
     ],
     "sneaky": [
         "skill",
@@ -484,7 +494,8 @@
         "courage",
         "consideration",
         "shrewdness",
-        "sensitivity"
+        "sensitivity",
+        "taciturn"
     ],
     "strange": [
         "enthusiasm",
@@ -502,7 +513,12 @@
         "self-respect",
         "candor",
         "integrity",
-        "intelligence"
+        "intelligence",
+        "self-loathing",
+        "odd",
+        "erratic",
+        "taciturn",
+        "compulsive"
     ],
     "strict": [
         "loyalty",
@@ -556,7 +572,11 @@
         "determination",
         "intensity",
         "gallantry",
-        "flexibility"
+        "flexibility",
+        "impulsive",
+        "irreligious",
+        "erratic",
+        "compulsive"
     ],
     "vengeful": [
         "honesty",
@@ -574,7 +594,8 @@
         "strategy",
         "resolve",
         "strong will",
-        "intensity"
+        "intensity",
+        "vice"
     ],
     "wise": [
         "wisdom",
